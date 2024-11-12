@@ -1,1 +1,1 @@
-# amazonclone
+This project is a clone of the popular e-commerce platform Mynta, built using HTML and CSS. The goal is to create a responsive and visually appealing website that replicates the core features of Mynta.
